@@ -1,0 +1,133 @@
+#sayfa{
+    border-style: solid;
+    width: 900px;
+    min-height: 600px;
+    border-width: 1px;
+    margin: auto;
+}
+
+#banner{
+    background-color: white;
+    width: 898px;
+    height: 240px;
+    border-style: none;
+    border-width: 1px;
+}
+
+#logo{
+    border-style: none;
+    width: 90px;
+    height: 120px;
+    margin-top: 7px;
+    margin-left: 10px;
+    float: left;
+}
+
+#sosyal{
+    border-style: none;
+    border-width: 1px;
+    width: 160px;
+    height: 40px;
+    float: right;
+    background-color: white;
+    position: relative;
+    margin-top: 94px;
+    margin-right: 10px;
+    top: 95px;
+}
+
+#ikon{
+    position: relative;
+    float: left;
+    margin-right: 12px;
+    width: 40px;
+    z-index: 2;
+}
+
+#resim{
+    width: 150px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+#anaMenü{
+    border-style: none;
+    background-color: white;
+    width: 898px;
+    height: 50px;
+}
+
+#linkk{
+    border-style: solid;
+    border-color: black;
+    box-shadow: 5px 5px 20px yellow;
+    background-color: darkgray;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    position: relative;
+    margin: 10px;
+    float: left;
+    left: 320px;
+}
+
+#içerik{
+    border-style: none;
+    background-color: white;
+    width: 650px;
+    height: 400px;
+}
+
+#yazi{
+    color: black;
+    float: left;
+    margin: 40px;
+    line-height: 20px;
+}
+
+#yanMenu{
+    z-index: 1;
+    height: 400px;
+    width: 270px;
+    border-style: none;
+    float: right;
+    background-color: white;
+    position: relative;
+    bottom: 400px;
+}
+
+#sayfalar{
+    border-style: none;
+    background-color: white;
+    width: 898px;
+    height: 50px;
+}
+
+#emirhan{
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+    margin: 15px;
+}
+
+#başlık2{
+    text-align: center;
+    color: black;
+}
+
+#liste{
+    list-style:square;
+}
+
+#başlık{
+    font-variant: small-caps;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+body{
+    background-image: url("resimler/dünya.jpg");
+}
